@@ -1,0 +1,26 @@
+[
+    {
+        "title": "TEST",
+        "key": "../TEST",
+        "children": [
+          
+          {
+                    "title": "star",
+                    "key": "../TEST/star",
+                    "children": [
+                              {
+                                        "title": "csv2.xlsx",
+                                        "key": "../TEST/star/csv2.xlsx",
+                                        "value": "../TEST/star/csv2.xlsx"
+                              }
+                              
+                    ]
+          },
+          {
+            "title": "csv.xlsx",
+            "key": "../TEST/csv.xlsx",
+            "OREO": "../TEST/csv.xlsx"
+          }
+        ]
+    }
+]
